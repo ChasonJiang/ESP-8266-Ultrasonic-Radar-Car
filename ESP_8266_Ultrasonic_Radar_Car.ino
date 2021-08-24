@@ -11,8 +11,8 @@
 #define ARDUINOJSON_USE_DOUBLE 1
 
 //input your wifi ssid and password
-const char *ssid="WiFi";
-const char *password="Jh201020";
+const char *ssid="";
+const char *password="";
 
 char json_output[200];
 GPIO *gpio=new GPIO();
