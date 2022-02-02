@@ -8,4 +8,4 @@
 ### 二、演示
 ![](https://github.com/ChasonJiang/ESP-8266-Ultrasonic-Radar-Car/blob/main/2.png)
 ![](https://github.com/ChasonJiang/ESP-8266-Ultrasonic-Radar-Car/blob/main/1.png)
-![](https://github.com/ChasonJiang/ESP-8266-Ultrasonic-Radar-Car/blob/main/2.png)
+![](https://github.com/ChasonJiang/ESP-8266-Ultrasonic-Radar-Car/blob/main/3.png)
